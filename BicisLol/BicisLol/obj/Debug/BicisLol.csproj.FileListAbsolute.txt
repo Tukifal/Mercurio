@@ -1,0 +1,10 @@
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\bin\Debug\BicisLol.exe.config
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\bin\Debug\BicisLol.exe
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\bin\Debug\BicisLol.pdb
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.csproj.AssemblyReference.cache
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.Form1.resources
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.Properties.Resources.resources
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.csproj.GenerateResource.cache
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.csproj.CoreCompileInputs.cache
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.exe
+C:\Users\oswal\Desktop\PRACTICAS 6TO\BicisLol\BicisLol\obj\Debug\BicisLol.pdb
